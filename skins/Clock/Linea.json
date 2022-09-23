@@ -1,0 +1,12 @@
+{
+    "skin_x": 9,
+    "skin_y": 4,
+    "value": 1,
+    "ui_name": "Linea",
+    "script_path": "Linea\\Time\\Time.ini",
+    "color": {
+        "config_path": "Linea\\@Resources\\Variables.inc",
+        "name": "Color1",
+        "index": 0
+    }
+}

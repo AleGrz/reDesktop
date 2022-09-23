@@ -1,0 +1,20 @@
+{
+    "value": 1,
+    "ui_name": "Fountain of Colors",
+    "script_path": "Fountain of Colors\\Fountain of Colors.ini",
+    "color": {
+        "config_path": "Fountain of Colors\\@Resources\\Variables.inc",
+        "name": "PaletteColor1",
+        "index": 0
+    },
+    "rotation": {
+        "config_path": "Fountain of Colors\\Fountain of Colors.ini",
+        "name": "Angle",
+        "index": 0
+    },
+    "width": {
+        "config_path": "Fountain of Colors\\@Resources\\Variables.inc",
+        "name": "Bands",
+        "index": 0
+    }
+}

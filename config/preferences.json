@@ -1,0 +1,100 @@
+{
+    "screen_x": {
+        "ui_name": "(*) Screen Width",
+        "value": 3440,
+        "input_type": "entry"
+    },
+    "screen_y": {
+        "ui_name": "(*) Screen Height",
+        "value": 1440,
+        "input_type": "entry"
+    },
+    "skins_path": {
+        "ui_name": "(*) Skins Path",
+        "value": "C:/Users/ajema/Documents/Rainmeter/Skins/",
+        "input_type": "entry"
+    },
+    "rainmeter_path": {
+        "ui_name": "(*) Rainmeter Path",
+        "value": "C:/Program Files/Rainmeter/",
+        "input_type": "entry"
+    },
+    "wallpaper_source": {
+        "ui_name": "Wallpaper",
+        "value": "Reddit",
+        "possible_values": [
+            "Reddit",
+            "Unsplash"
+        ],
+        "input_type": "combobox"
+    },
+    "subreddit": {
+        "ui_name": "Subreddit",
+        "value": "wallpapers",
+        "input_type": "entry"
+    },
+    "keyword": {
+        "ui_name": "Wallpaper  Keyword",
+        "value": "dice=",
+        "input_type": "entry"
+    },
+    "line_detection_method": {
+        "ui_name": "Line Detection Method",
+        "value": "Line Segment Detection",
+        "possible_values": [
+            "Line Segment Detection",
+            "Hough Transform"
+        ],
+        "input_type": "combobox"
+    },
+    "clusters": {
+        "ui_name": "Quantization Clusters",
+        "value": 4,
+        "input_type": "entry"
+    },
+    "modifier_center": {
+        "ui_name": "Generation modifier - center",
+        "value": -200,
+        "input_type": "entry"
+    },
+    "modifier_middle": {
+        "ui_name": "Generation modifier - center lines",
+        "value": -50,
+        "input_type": "entry"
+    },
+    "modifier_corner": {
+        "ui_name": "Generation modifier - corners",
+        "value": -1260,
+        "input_type": "entry"
+    },
+    "min_line_length": {
+        "ui_name": "Minimum Visualiser Length",
+        "value": 100,
+        "input_type": "entry"
+    },
+    "canny_threshold_low": {
+        "ui_name": "Canny Lower Threshold",
+        "value": 50,
+        "input_type": "entry"
+    },
+    "canny_threshold_up": {
+        "ui_name": "Canny Upper Threshold",
+        "value": 150,
+        "input_type": "entry"
+    },
+    "canny_aperture": {
+        "ui_name": "Canny Aperture Size",
+        "value": 3,
+        "input_type": "entry"
+    },
+    "hough_max_line_gap": {
+        "ui_name": "Hough Transform Max Line Gap",
+        "value": 10,
+        "input_type": "entry"
+    },
+    "hough_threshold": {
+        "ui_name": "Hough Transform Threshold",
+        "value": 10,
+        "input_type": "entry"
+    }
+}

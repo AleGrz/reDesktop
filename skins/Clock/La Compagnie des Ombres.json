@@ -1,0 +1,12 @@
+{
+  "skin_x": 8,
+  "skin_y": 6,
+  "value": 1,
+  "ui_name": "La Compagnie des Ombres",
+  "script_path": "La Compagnie des Ombres - Clock\\Clock\\La Compagnie des Ombres - English.ini",
+  "color": {
+    "config_path": "La Compagnie des Ombres - Clock\\Clock\\La Compagnie des Ombres - English.ini",
+    "name": "FontColor",
+    "index": 1
+  }
+}
