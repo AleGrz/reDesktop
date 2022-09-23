@@ -1,22 +1,22 @@
 {
     "screen_x": {
         "ui_name": "(*) Screen Width",
-        "value": 3440,
+        "value": "",
         "input_type": "entry"
     },
     "screen_y": {
         "ui_name": "(*) Screen Height",
-        "value": 1440,
+        "value": "",
         "input_type": "entry"
     },
     "skins_path": {
         "ui_name": "(*) Skins Path",
-        "value": "C:/Users/ajema/Documents/Rainmeter/Skins/",
+        "value": "",
         "input_type": "entry"
     },
     "rainmeter_path": {
         "ui_name": "(*) Rainmeter Path",
-        "value": "C:/Program Files/Rainmeter/",
+        "value": "",
         "input_type": "entry"
     },
     "wallpaper_source": {
@@ -35,7 +35,7 @@
     },
     "keyword": {
         "ui_name": "Wallpaper  Keyword",
-        "value": "dice=",
+        "value": "",
         "input_type": "entry"
     },
     "line_detection_method": {
