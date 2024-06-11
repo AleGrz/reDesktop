@@ -1,3 +1,4 @@
+### This is legacy and not supported anymore! A completely rewritten new version coming soon!
 ## IMPORTANT! Please read this before the first launch!
 
 # reDesktop
